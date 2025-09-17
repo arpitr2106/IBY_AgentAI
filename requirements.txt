@@ -1,0 +1,18 @@
+# Core ML & Data Libraries
+datasets
+peft
+accelerate
+bitsandbytes
+sentence-transformers
+torch
+pydantic
+
+# LangChain Ecosystem
+langchain-community
+langchain-huggingface
+langmem
+langgraph
+
+# For installing the latest development versions directly from GitHub
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/trl.git
